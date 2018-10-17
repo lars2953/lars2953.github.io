@@ -76,8 +76,16 @@ figure.cats{
     margin-left:5%;
     float:left;
     margin-top:50px;
-    border: solid 5px #FFD9CE;
+    outline: solid 5px #FFD9CE;
     margin-bottom:50px;
+}
+
+figure.thirdcat{
+  margin-right:5%;
+}
+
+figure.lastcat{
+  margin-left:0;
 }
 
 footer{
